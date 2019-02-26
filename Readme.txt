@@ -1,0 +1,1 @@
+This is a basic microservice that is used to find out the exchange rates for different currencies, which are internally stored in h2 database
